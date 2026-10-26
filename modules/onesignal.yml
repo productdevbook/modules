@@ -18,3 +18,4 @@ maintainers:
 compatibility:
   nuxt: ^2.0.0
   requires: {}
+archived: true

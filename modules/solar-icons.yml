@@ -7,7 +7,7 @@ npm: '@solar-icons/nuxt'
 icon: solar-icons.svg
 github: https://github.com/saoudi-h/solar-icons
 website: https://solar-icons.vercel.app/docs/packages/nuxt
-learn_more: https://solar-icons.vercel.app
+learn_more: https://solar-icons.dev/
 category: UI
 type: 3rd-party
 maintainers:
