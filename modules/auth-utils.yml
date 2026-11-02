@@ -16,5 +16,5 @@ maintainers:
     twitter: atinux
     bluesky: atinux.com
 compatibility:
-  nuxt: '>=3.0.0'
+  nuxt: '>=4.6.0'
   requires: {}
