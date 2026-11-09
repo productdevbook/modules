@@ -6,7 +6,7 @@ repo: nuxt/image
 npm: '@nuxt/image'
 icon: nuxt.svg
 github: https://github.com/nuxt/image
-website: https://image.nuxt.com
+website: https://nuxt.com/modules/image
 learn_more: ''
 category: Images
 type: official
